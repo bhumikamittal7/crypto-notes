@@ -10,7 +10,7 @@ A commitment scheme consists of a commitment algorithm $\sf Com$ and an opening 
     === "Scheme"
         Given a group $\mathbb{G}$ of prime order $q$ and $g,h$ elements (generators) of $\mathbb{G}$:
 
-        - $\underline{{\sf Com}(m)}:$ output ${\sf com} = g^m h^r$ where $r \gets^\$ \mathbb{Z}_q$; set ${\sf decom} = (m,r)$.
+        <!-- - $\underline{{\sf Com}(m)}:$ output ${\sf com} = g^m h^r$ where $r \gets^\$ \mathbb{Z}_q$; set ${\sf decom} = (m,r)$. -->
         - $\underline{{\sf Open}({\sf com}, {\sf decom})}:$ directly outputs ${\sf decom} = (m,r)$. The verifier can check that ${\sf com} = g^m h^r$.
 
     === "Properties"

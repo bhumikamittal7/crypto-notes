@@ -1,0 +1,13 @@
+diagrams.key
+
+# Jupyter
+.ipynb_checkpoints
+
+# mkdocs
+site/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
