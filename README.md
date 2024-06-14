@@ -1,1 +1,1 @@
-# PQC Notes
+# Crypto Notes
