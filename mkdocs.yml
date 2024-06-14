@@ -1,5 +1,5 @@
-site_name: PQC Notes
-site_url: https://bhumikamittal.in/pqc-notes/
+site_name: Crypto Notes
+site_url: https://bhumikamittal.in/crypto-notes/
 theme:
   name: material
 markdown_extensions:
